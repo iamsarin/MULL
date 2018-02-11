@@ -1,0 +1,28 @@
+{
+  "name": "mull-queue",
+  "version": "0.1.0",
+  "description": "MySQL-based queue for NodeJS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsarin/mull.git"
+  },
+  "keywords": [
+    "queue",
+    "nodejs",
+    "bull",
+    "monq"
+  ],
+  "author": "Sarin Kesphanich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamsarin/mull/issues"
+  },
+  "homepage": "https://github.com/iamsarin/mull#readme"
+}
